@@ -1,0 +1,16 @@
+  ADVT: name
+ Phone number: 1234567
+ Category: cat Price: 100
+
+  ADVT: treq
+ Phone number: 654321
+ Category: cat Price: 123
+
+  ADVT: 3qwe
+ Phone number: 8765432
+ Category: rrr Price: 432
+
+  ADVT: qqq
+ Phone number: 9876543
+ Category: tre Price: 122
+
