@@ -1,0 +1,43 @@
+﻿  Lab05.2.cpp
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(132): note: see reference to function template instantiation 'void edit<WTB>(stack<WTB *> *,int)' being compiled
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(40): error C2819: type 'stack<WTB *>' does not have an overloaded member 'operator ->'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(58): note: see declaration of 'stack<WTB *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(40): note: did you intend to use '.' instead?
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(40): error C2039: 'set_name': is not a member of 'stack<WTB *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(58): note: see declaration of 'stack<WTB *>'
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(44): error C2819: type 'stack<WTB *>' does not have an overloaded member 'operator ->'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(58): note: see declaration of 'stack<WTB *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(44): note: did you intend to use '.' instead?
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(44): error C2039: 'set_phone': is not a member of 'stack<WTB *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(58): note: see declaration of 'stack<WTB *>'
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(40): error C2819: type 'stack<WTS *>' does not have an overloaded member 'operator ->'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(59): note: see declaration of 'stack<WTS *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(40): note: did you intend to use '.' instead?
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(40): error C2039: 'set_name': is not a member of 'stack<WTS *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(59): note: see declaration of 'stack<WTS *>'
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(44): error C2819: type 'stack<WTS *>' does not have an overloaded member 'operator ->'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(59): note: see declaration of 'stack<WTS *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(44): note: did you intend to use '.' instead?
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(44): error C2039: 'set_phone': is not a member of 'stack<WTS *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(59): note: see declaration of 'stack<WTS *>'
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(40): error C2819: type 'stack<Rent *>' does not have an overloaded member 'operator ->'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(60): note: see declaration of 'stack<Rent *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(40): note: did you intend to use '.' instead?
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(40): error C2039: 'set_name': is not a member of 'stack<Rent *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(60): note: see declaration of 'stack<Rent *>'
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(44): error C2819: type 'stack<Rent *>' does not have an overloaded member 'operator ->'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(60): note: see declaration of 'stack<Rent *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(44): note: did you intend to use '.' instead?
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(44): error C2039: 'set_phone': is not a member of 'stack<Rent *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(60): note: see declaration of 'stack<Rent *>'
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(40): error C2819: type 'stack<Work *>' does not have an overloaded member 'operator ->'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(61): note: see declaration of 'stack<Work *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(40): note: did you intend to use '.' instead?
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(40): error C2039: 'set_name': is not a member of 'stack<Work *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(61): note: see declaration of 'stack<Work *>'
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(44): error C2819: type 'stack<Work *>' does not have an overloaded member 'operator ->'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(61): note: see declaration of 'stack<Work *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(44): note: did you intend to use '.' instead?
+d:\stud\oop\lab06\lab05.2\lab05.2.cpp(44): error C2039: 'set_phone': is not a member of 'stack<Work *>'
+  d:\stud\oop\lab06\lab05.2\lab05.2.cpp(61): note: see declaration of 'stack<Work *>'
